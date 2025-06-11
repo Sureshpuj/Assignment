@@ -77,6 +77,6 @@ The dataset contains order-level details including:
 2. Ensure you have Python installed.
 3. Install required libraries:
    ```bash
-   pip install pandas matplotlib seaborn openpyxl
+   pip install pandas matplotlib seaborn 
 
 
